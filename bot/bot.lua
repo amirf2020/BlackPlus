@@ -263,7 +263,7 @@ function create_config( )
     "Block",
     "InGroups",
     },
-    sudo_users = {256331224,193068389,},--Sudo users
+    sudo_users = {193068389,256331224,},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 ]],
